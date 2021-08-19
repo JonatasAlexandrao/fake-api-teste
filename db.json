@@ -1,38 +1,38 @@
 {
 
-"forecast": [
-  { 
-  "day": "Thursday",
-  "temperature: "28º",
-  "climate": "rain"
-  }, 
-  
-  { 
-  "day": "Thursday",
-  "temperature: "25º",
-  "climate": "rain"
-  }, 
-  
-  { 
-  "day": "Thursday",
-  "temperature: "22º",
-  "climate": "rain"
-  }, 
-  
-  { 
-  "day": "Thursday",
-  "temperature: "21º",
-  "climate": "rain"
-  }, 
-],
+  "forecast": [
+    { 
+      "day": "Thursday",
+      "temperature": "28º",
+      "climate": "rain"
+    }, 
 
-"teste": [
-  { "id": "1", "user": "teste" },
-  { "id": "2", "user": "teste" },
-  { "id": "3", "user": "teste" },
-  { "id": "4", "user": "teste" },
-  { "id": "5", "user": "teste" }
-]
+    { 
+      "day": "Thursday",
+      "temperature": "25º",
+      "climate": "rain"
+    }, 
+
+    { 
+      "day": "Thursday",
+      "temperature": "22º",
+      "climate": "rain"
+    }, 
+
+    { 
+      "day": "Thursday",
+      "temperature": "21º",
+      "climate": "rain"
+    }
+  ],
+
+  "teste": [
+    { "id": "1", "user": "teste" },
+    { "id": "2", "user": "teste" },
+    { "id": "3", "user": "teste" },
+    { "id": "4", "user": "teste" },
+    { "id": "5", "user": "teste" }
+  ]
 
 
 }
