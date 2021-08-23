@@ -2,27 +2,42 @@
 
   "forecast": [
     { 
-      "day": "Thursday",
-      "temperature": "28º",
-      "climate": "rain"
+      "day": "Monday",
+      "temperature": "20º",
+      "weather": "rain"
     }, 
   
     { 
-      "day": "Thursday",
+      "day": "Tuesday",
+      "temperature": "30º",
+      "weather": "sun"
+    }, 
+  
+    { 
+      "day": "Wednesday",
       "temperature": "25º",
-      "climate": "rain"
+      "weather": "cloudy"
     }, 
   
     { 
       "day": "Thursday",
-      "temperature": "22º",
-      "climate": "rain"
-    }, 
-  
+      "temperature": "15º",
+      "weather": "storm"
+    },
     { 
-      "day": "Thursday",
+      "day": "Friday",
       "temperature": "21º",
-      "climate": "rain"
+      "weather": "storm"
+    },
+    { 
+      "day": "Saturday",
+      "temperature": "18º",
+      "weather": "cloudy-night"
+    },
+    { 
+      "day": "Sunday",
+      "temperature": "22º",
+      "weather": "moon"
     }
   ],
   
