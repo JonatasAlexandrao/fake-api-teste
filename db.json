@@ -52,7 +52,7 @@
   "pedidos-julho": [
     {
       "data":"07/07",
-      "qtd":"Pão Caseiro",
+      "qtd":"1",
       "produto":"Pão Caseiro",
       "cliente":"Denize",
       "valor":"R$ 13,00",
@@ -61,7 +61,7 @@
 
     {
       "data":"08/07",
-      "qtd":"Pão Caseiro",
+      "qtd":"2",
       "produto":"Pão Caseiro",
       "cliente":"Denize",
       "valor":"R$ 13,00",
@@ -70,7 +70,7 @@
 
     {
       "data":"09/07",
-      "qtd":"Pão Caseiro",
+      "qtd":"4",
       "produto":"Pão Caseiro",
       "cliente":"Denize",
       "valor":"R$ 13,00",
